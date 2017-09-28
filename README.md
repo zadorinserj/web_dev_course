@@ -19,7 +19,7 @@
 [Урок 7](zadorinserj.github.io/lesson_7/first_site/src/) - Первая вёрстка на чистом HTML + CSS
 
 
-[Урок 8](zadorinserj.github.io/lesson_8/) - Добавление библиотеки Bootstrap
+[Урок 8](/zadorinserj/zadorinserj.github.io/tree/master/lesson_8) - Добавление библиотеки Bootstrap
 
 
 [Урок 9](zadorinserj.github.io/lesson_9/first_site/src/) - Вёрстка с сеткой Bootstrap
