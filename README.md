@@ -13,7 +13,7 @@
 [Урок 5](zadorinserj.github.io/lesson_5/) - Книжка на HTML + CSS
 
 
-[Урок 6](zadorinserj.github.io/lesson_6/) - Позиционирование в CSS
+[Урок 6](/zadorinserj/zadorinserj.github.io/tree/master/lesson_6) - Позиционирование в CSS
 
 
 [Урок 7](zadorinserj.github.io/lesson_7/first_site/src/) - Первая вёрстка на чистом HTML + CSS
