@@ -16,13 +16,13 @@
 [Урок 6](zadorinserj.github.io/lesson_6/) - Позиционирование в CSS
 
 
-[Урок 7](zadorinserj.github.io/lesson_7/first_site/src/index.html) - Первая вёрстка на чистом HTML + CSS
+[Урок 7](zadorinserj.github.io/lesson_7/first_site/src/) - Первая вёрстка на чистом HTML + CSS
 
 
-[Урок 8]("") - Добавление библиотеки Bootstrap
+[Урок 8](zadorinserj.github.io/lesson_8/) - Добавление библиотеки Bootstrap
 
 
-[Урок 9](zadorinserj.github.io/lesson_9/first_site/src/index.html) - Вёрстка с сеткой Bootstrap
+[Урок 9](zadorinserj.github.io/lesson_9/first_site/src/) - Вёрстка с сеткой Bootstrap
 
 
 [Урок 10](zadorinserj.github.io/lesson_10/) - Знакомство с LESS
