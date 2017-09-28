@@ -25,7 +25,7 @@
 [Урок 9](zadorinserj.github.io/lesson_9/first_site/src/) - Вёрстка с сеткой Bootstrap
 
 
-[Урок 10](zadorinserj.github.io/lesson_10/) - Знакомство с LESS
+[Урок 10](lesson_10/) - Знакомство с LESS
 
 
 [Урок 11](zadorinserj.github.io/lesson_11/) - Сниппеты в SublimeText
