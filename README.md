@@ -22,12 +22,12 @@
 [Урок 8](zadorinserj/zadorinserj.github.io/tree/master/lesson_8) - Добавление библиотеки Bootstrap
 
 
-[Урок 9](zadorinserj.github.io/lesson_9/first_site/src/) - Вёрстка с сеткой Bootstrap
+[Урок 9](lesson_9/) - Вёрстка с сеткой Bootstrap
 
 
 [Урок 10](lesson_10/) - Знакомство с LESS
 
 
-[Урок 11](zadorinserj.github.io/lesson_11/) - Сниппеты в SublimeText
+[Урок 11](/lesson_11/) - Сниппеты в SublimeText
 
 
