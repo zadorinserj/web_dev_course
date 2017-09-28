@@ -1,25 +1,25 @@
 # Сергей Задорин
 ## Мои домашние задания
 
-[Урок 2](/tree/master/lesson_2/) - Графика из PSD макета
+[Урок 2](/lesson_2/) - Графика из PSD макета
 
 
-[Урок 3](zadorinserj.github.io/lesson_3/) - Работа с директорией
+[Урок 3](/lesson_3/) - Работа с директорией
 
 
-[Урок 4](zadorinserj.github.io/lesson_4/) - Книжка на чистом HTML
+[Урок 4](/lesson_4/) - Книжка на чистом HTML
 
 
-[Урок 5](zadorinserj.github.io/lesson_5/) - Книжка на HTML + CSS
+[Урок 5](/lesson_5/) - Книжка на HTML + CSS
 
 
-[Урок 6](zadorinserj/zadorinserj.github.io/tree/master/lesson_6) - Позиционирование в CSS
+[Урок 6](/lesson_6/) - Позиционирование в CSS
 
 
-[Урок 7](zadorinserj.github.io/lesson_7/first_site/src/) - Первая вёрстка на чистом HTML + CSS
+[Урок 7](/lesson_7/) - Первая вёрстка на чистом HTML + CSS
 
 
-[Урок 8](zadorinserj/zadorinserj.github.io/tree/master/lesson_8) - Добавление библиотеки Bootstrap
+[Урок 8](/lesson_8/) - Добавление библиотеки Bootstrap
 
 
 [Урок 9](lesson_9/) - Вёрстка с сеткой Bootstrap
@@ -29,5 +29,3 @@
 
 
 [Урок 11](/lesson_11/) - Сниппеты в SublimeText
-
-
