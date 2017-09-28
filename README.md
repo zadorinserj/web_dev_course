@@ -4,28 +4,31 @@
 [Урок 2](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_2/img/) - Графика из PSD макета
 
 
-[Урок 3](/lesson_3/) - Работа с директорией
+[Урок 3](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_3/) - Работа с директорией
 
 
-[Урок 4](/lesson_4/) - Книжка на чистом HTML
+[Урок 4](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_4/) - Книжка на чистом HTML
 
 
-[Урок 5](/lesson_5/) - Книжка на HTML + CSS
+[Урок 5](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_5/) - Книжка на HTML + CSS
 
 
-[Урок 6](/lesson_6/) - Позиционирование в CSS
+[Урок 6.1](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_6/block/) - Позиционирование в CSS (Блок)
 
 
-[Урок 7](/lesson_7/) - Первая вёрстка на чистом HTML + CSS
+[Урок 6.2](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_6/hat/) - Позиционирование в CSS (Шапка)
 
 
-[Урок 8](/lesson_8/) - Добавление библиотеки Bootstrap
+[Урок 7](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_7/first_site/src/) - Первая вёрстка на чистом HTML + CSS
 
 
-[Урок 9](lesson_9/) - Вёрстка с сеткой Bootstrap
+[Урок 8](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_8/) - Добавление библиотеки Bootstrap
 
 
-[Урок 10](lesson_10/) - Знакомство с LESS
+[Урок 9](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_9/first_site/src/) - Вёрстка с сеткой Bootstrap
 
 
-[Урок 11](/lesson_11/) - Сниппеты в SublimeText
+[Урок 10](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_10/) - Знакомство с LESS
+
+
+[Урок 11](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_11/) - Сниппеты в SublimeText
