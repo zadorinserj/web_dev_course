@@ -1,7 +1,7 @@
 # Сергей Задорин
 ## Мои домашние задания
 
-[Урок 2](/lesson_2/) - Графика из PSD макета
+[Урок 2](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_2/img/) - Графика из PSD макета
 
 
 [Урок 3](/lesson_3/) - Работа с директорией
