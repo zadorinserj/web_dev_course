@@ -1,0 +1,23 @@
+.hat {
+	background-color: #000;
+	position: fixed;
+	height: 130px;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+a {
+	box-sizing: border-box;
+	color: #fff;
+	display: inline-block;
+	width: 20%;
+	text-align: center;
+	margin-right: -4px;
+	margin-top: 50px;
+
+}
+
+p {
+	padding-top: 130px;
+}
