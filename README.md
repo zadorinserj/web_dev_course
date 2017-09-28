@@ -7,7 +7,7 @@
 [Урок 3](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_3/) - Работа с директорией
 
 
-[Урок 4](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_4/) - Книжка на чистом HTML
+[Урок 4](https://zadorinserj.github.io/lesson_4/) - Книжка на чистом HTML
 
 
 [Урок 5](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_5/) - Книжка на HTML + CSS
