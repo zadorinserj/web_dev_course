@@ -37,4 +37,4 @@
 [Урок 13](https://zadorinserj.github.io/lesson_13/pixel_perfect/src/) - Форма в стиле Pixel Perfect
 
 
-[Практика 1](https://zadorinserj.github.io/practice_1/project/src/) - Форма в стиле Pixel Perfect
+[Практика 1](https://zadorinserj.github.io/practice_1/project/src/) - Шапка сайта
