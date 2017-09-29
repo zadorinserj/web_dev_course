@@ -32,3 +32,6 @@
 
 
 [Урок 11](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_11/) - Сниппеты в SublimeText
+
+
+[Урок 13](https://zadorinserj.github.io/lesson_13/pixel_perfect/src/) - Форма в стиле Pixel Perfect
