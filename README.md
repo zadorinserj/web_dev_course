@@ -38,3 +38,6 @@
 
 
 [Практика 1](https://zadorinserj.github.io/practice_1/project/src/) - Шапка сайта
+
+
+[Практика 2](https://zadorinserj.github.io/practice_2/project/src/) - Главный экран
