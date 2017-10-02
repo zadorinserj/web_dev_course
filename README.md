@@ -40,4 +40,7 @@
 [Практика 1](https://zadorinserj.github.io/practice_1/project/src/) - Шапка сайта
 
 
+[Урок 14](https://zadorinserj.github.io/lesson_14/src/) - Подбор шрифтов
+
+
 [Практика 2](https://zadorinserj.github.io/practice_2/project/src/) - Главный экран
