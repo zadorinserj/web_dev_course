@@ -47,3 +47,6 @@
 
 
 [Урок 15](https://zadorinserj.github.io/lesson_15/src/) - Эффекты при наведении
+
+
+[Практика 3](https://zadorinserj.github.io/practice_3/project/src/) - Эффекты при наведении и адаптив первого экрана
