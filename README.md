@@ -50,3 +50,6 @@
 
 
 [Практика 3](https://zadorinserj.github.io/practice_3/project/src/) - Эффекты при наведении и адаптив первого экрана
+
+
+[Урок 16](https://zadorinserj.github.io/lesson_16/slider/src/) - Слайдер на сайте
