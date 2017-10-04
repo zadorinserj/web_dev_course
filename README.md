@@ -53,3 +53,6 @@
 
 
 [Урок 16](https://zadorinserj.github.io/lesson_16/slider/src/) - Слайдер на сайте
+
+
+[Практика 4](https://zadorinserj.github.io/practice_4/project/src/) - Блок с преимуществами (Слайдер)
