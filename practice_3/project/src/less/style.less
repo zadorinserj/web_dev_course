@@ -204,6 +204,12 @@ section {
 	.main {
 		margin-top: 9rem;
 		background-position: top left;
+		&-title {
+			h1 {
+				font-size: 3rem;
+				line-height: 1;
+			}
+		}
 	}
 	.header {
 		text-align: center;
@@ -216,5 +222,22 @@ section {
 	}
 	.wrap-block {
 		text-align: center;
+	}
+}
+
+@media (max-width: 370px) {
+	.main {
+		.phone-link {
+			font-size: 1.5rem;
+		}
+		&-title {
+			h1 {
+				font-size: 2rem;
+				line-height: 1;
+			}
+			p {
+				font-size: 2rem;
+			}
+		}
 	}
 }
