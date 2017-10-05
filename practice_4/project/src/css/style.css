@@ -244,7 +244,7 @@ section {
     text-align: center;
   }
 }
-@media (max-width: 370px) {
+@media (max-width: 386px) {
   .main .phone-link {
     font-size: 1.5rem;
   }
