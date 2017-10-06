@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css">
+  <title>Modal window</title>
+</head>
+
+<body>
+
+	<button class="btn btn-primary btn-lg mybtn" data-toggle="modal" data-target="#my-modal">Удалить файл</button>
+
+	<div class="modal fade" id="my-modal">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title">Подтверждение действия</h4>
+	      </div>
+	      <div class="modal-body">
+	        <p>Вы уверены что хотите удалить этот файл?&hellip;</p>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-danger" data-dismiss="modal" data-toggle="modal" data-target="#second-modal">Да</button>
+	        <button type="button" class="btn btn-success" data-dismiss="modal">Нет</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="modal fade" id="second-modal">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title">Подтверждение действия</h4>
+	      </div>
+	      <div class="modal-body">
+	        <p>Точно уверены?&hellip;</p>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-danger" data-dismiss="modal" data-toggle="modal" data-target="#third-modal">Да</button>
+	        <button type="button" class="btn btn-success" data-dismiss="modal">Нет</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="modal fade" id="third-modal">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title">Может не надо</h4>
+	      </div>
+	      <div class="modal-body">
+	        <p>То есть вы действительно хотите удалить файл?&hellip;</p>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-danger" data-dismiss="modal" data-toggle="modal" data-target="#fourth-modal">Всё верно</button>
+	        <button type="button" class="btn btn-success" data-dismiss="modal">Нет</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="modal fade" id="fourth-modal">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title">Хорошо..</h4>
+	      </div>
+	      <div class="modal-body">
+	        <p>Но я не советую&hellip;</p>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-danger final-btn" data-dismiss="modal"
+	        data-dismiss="third-modal">Удалить</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+
+  <script src="js/jquery-3.2.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

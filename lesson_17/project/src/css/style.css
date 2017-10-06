@@ -1,0 +1,20 @@
+.mybtn {
+	display: block;
+	margin: 400px auto;
+}
+.btn-danger {
+	width: 100px;
+	position: absolute;
+	left: 20px;
+}
+.final-btn {
+	display: block;
+	width: 250px;
+	margin-left: 150px;
+}
+.btn-success {
+	width: 100px;
+}
+.modal-body, .modal-footer {
+	font-size: 18px;
+}
