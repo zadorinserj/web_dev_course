@@ -58,4 +58,4 @@
 [Практика 4](https://zadorinserj.github.io/practice_4/project/src/) - Блок с преимуществами (Слайдер)
 
 
-[Урок 17](https://zadorinserj.github.io/lesson_17/project/src/) - Слайдер на сайте
+[Урок 17](https://zadorinserj.github.io/lesson_17/project/src/) - Всплывающие окна
