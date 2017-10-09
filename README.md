@@ -62,3 +62,6 @@
 
 
 [Практика 5](https://zadorinserj.github.io/practice_5/project/src/) - Всплывающее окно на сайте
+
+
+[Практика 6](https://zadorinserj.github.io/practice_6/project/src/) - Блок с ценами
