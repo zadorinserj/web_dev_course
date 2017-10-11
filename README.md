@@ -64,6 +64,12 @@
 [Практика 5](https://zadorinserj.github.io/practice_5/project/src/) - Всплывающее окно на сайте
 
 
+[Урок 18.1](https://zadorinserj.github.io/lesson_18/tabs/src/) - Табы
+
+
+[Урок 18.2](https://zadorinserj.github.io/lesson_18/accordion/src/) - Аккордеон
+
+
 [Практика 6](https://zadorinserj.github.io/practice_6/project/src/) - Блок с ценами
 
 
