@@ -1,0 +1,139 @@
+ @font-face {
+			font-family: "MyriadProRegular";
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+body {
+	background-color: #ddd;
+}
+
+#wrap {
+	width: 630px;
+	margin: 200px auto;
+}
+
+.tabs {
+	height: 34px;
+	width: 100%;
+	margin-left: 20px;
+	margin-bottom: 14px;
+	border-radius: 6px;
+	font-family: 'MyriadProRegular', sans-serif;
+	font-size: 24px;
+	text-shadow: -2px -2px 2px rgba(0,0,0,.3);
+}
+
+.tab {
+	position: relative;
+	z-index: 0;
+	margin-left: 10px;
+	background-color: #ffffff;
+	color: #000000;
+	border-radius: 6px;
+} 
+#wrap .tabs:after {
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}
+#wrap .tabs .tab {
+	float: left;
+	cursor: pointer;
+	padding: 10px 20px;
+	margin-top: 5px;
+}
+#wrap .tabs .tab:hover,
+#wrap .tabs .tab.active {
+	background-color: #03a5da;
+	color: #fff;
+	border-radius: 6px;
+}
+#wrap .content-form{
+	display: block;
+	background-color: #000000;
+	border-radius: 6px;
+}
+#wrap .content-form .tab-cont {
+	display: none;
+}
+#wrap .content-form .tab-cont.active {
+	display: block;
+}
+.form {
+	position: relative;
+	height: 340px;
+	width: 600px;
+	border: 24px solid #03a5da;
+	border-radius: 6px;
+}
+.form-input {
+	display: block;
+	color: white;
+	font-size: 24px;
+	font-family: 'MyriadProRegular', sans-serif;
+	background: #1c1b1b;
+	border: none;
+	margin-bottom: 31px;
+	margin-left: 30px;
+	padding-left: 20px;
+	border-radius: 5px;
+	height: 59px;
+	width: 480px;
+}
+.form-input-name {
+	margin-top: 50px;
+	animation-delay: 1s;
+}
+.pass {
+	animation-delay: 1.5s;
+}
+.password a {
+	color: #8d1302;
+	font-size: 15px;
+	margin-left: 45px;
+	text-decoration: none;
+}
+.remember {
+	color: #6f6d6d;
+	font-size: 15px;
+	margin-left: 45px;
+	margin-top: 40px;
+	animation-delay: 2s;
+}
+.rememb {
+	animation-delay: 3s;
+}
+.sign {
+	position: relative;
+	width: 125px;
+	height: 36px;
+	left: 500px;
+	bottom: 50px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 10px;
+	font-size: 24px;
+	background-color: #ba1b02;
+	color: #ffffff;
+	cursor: pointer;
+}
+.registr {
+	position: relative;
+	width: 225px;
+	height: 36px;
+	margin: 0 auto;
+	bottom: -15px;
+	text-align: center;
+	padding-top: 5px;
+	padding 0;
+	font-size: 24px;
+	background-color: #ba1b02;
+	color: #ffffff;
+	cursor: pointer;
+} 
