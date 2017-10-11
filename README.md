@@ -68,3 +68,6 @@
 
 
 [Практика 7](https://zadorinserj.github.io/practice_7/project/src/) - Блок с отзывами
+
+
+[Урок 20](https://zadorinserj.github.io/lesson_20/project/src/) - Видео-фон
