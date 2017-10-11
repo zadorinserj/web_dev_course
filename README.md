@@ -73,6 +73,9 @@
 [Практика 6](https://zadorinserj.github.io/practice_6/project/src/) - Блок с ценами
 
 
+[Урок 19](https://zadorinserj.github.io/lesson_19/src/) - Анимация на CSS3
+
+
 [Практика 7](https://zadorinserj.github.io/practice_7/project/src/) - Блок с отзывами
 
 
