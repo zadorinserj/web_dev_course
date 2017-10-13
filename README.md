@@ -1,5 +1,6 @@
 # Сергей Задорин
 ## Мои домашние задания
+### Уроки
 
 [Урок 2](https://github.com/zadorinserj/zadorinserj.github.io/tree/master/lesson_2/img/) - Графика из PSD макета
 
@@ -37,31 +38,16 @@
 [Урок 13](https://zadorinserj.github.io/lesson_13/pixel_perfect/src/) - Форма в стиле Pixel Perfect
 
 
-[Практика 1](https://zadorinserj.github.io/practice_1/project/src/) - Шапка сайта
-
-
 [Урок 14](https://zadorinserj.github.io/lesson_14/src/) - Подбор шрифтов
-
-
-[Практика 2](https://zadorinserj.github.io/practice_2/project/src/) - Главный экран
 
 
 [Урок 15](https://zadorinserj.github.io/lesson_15/src/) - Эффекты при наведении
 
 
-[Практика 3](https://zadorinserj.github.io/practice_3/project/src/) - Эффекты при наведении и адаптив первого экрана
-
-
 [Урок 16](https://zadorinserj.github.io/lesson_16/slider/src/) - Слайдер на сайте
 
 
-[Практика 4](https://zadorinserj.github.io/practice_4/project/src/) - Блок с преимуществами (Слайдер)
-
-
 [Урок 17](https://zadorinserj.github.io/lesson_17/project/src/) - Всплывающие окна
-
-
-[Практика 5](https://zadorinserj.github.io/practice_5/project/src/) - Всплывающее окно на сайте
 
 
 [Урок 18.1](https://zadorinserj.github.io/lesson_18/tabs/src/) - Табы
@@ -70,16 +56,33 @@
 [Урок 18.2](https://zadorinserj.github.io/lesson_18/accordion/src/) - Аккордеон
 
 
-[Практика 6](https://zadorinserj.github.io/practice_6/project/src/) - Блок с ценами
-
-
 [Урок 19](https://zadorinserj.github.io/lesson_19/src/) - Анимация на CSS3
 
 
-[Практика 7](https://zadorinserj.github.io/practice_7/project/src/) - Блок с отзывами
-
-
 [Урок 20](https://zadorinserj.github.io/lesson_20/project/src/) - Видео-фон
+___
+
+### Практика
+
+[Практика 1](https://zadorinserj.github.io/practice_1/project/src/) - Шапка сайта
+
+
+[Практика 2](https://zadorinserj.github.io/practice_2/project/src/) - Главный экран
+
+
+[Практика 3](https://zadorinserj.github.io/practice_3/project/src/) - Эффекты при наведении и адаптив первого экрана
+
+
+[Практика 4](https://zadorinserj.github.io/practice_4/project/src/) - Блок с преимуществами (Слайдер)
+
+
+[Практика 5](https://zadorinserj.github.io/practice_5/project/src/) - Всплывающее окно на сайте
+
+
+[Практика 6](https://zadorinserj.github.io/practice_6/project/src/) - Блок с ценами
+
+
+[Практика 7](https://zadorinserj.github.io/practice_7/project/src/) - Блок с отзывами
 
 
 [Практика 9](https://zadorinserj.github.io/practice_9/project/src/) - Блоки "Схема работы" и "Всё включено"
