@@ -80,3 +80,6 @@
 
 
 [Урок 20](https://zadorinserj.github.io/lesson_20/project/src/) - Видео-фон
+
+
+[Практика 9](https://zadorinserj.github.io/practice_9/project/src/) - Блоки "Схема работы" и "Всё включено"
