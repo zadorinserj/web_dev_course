@@ -62,6 +62,8 @@
 [Урок 20](https://zadorinserj.github.io/lesson_20/project/src/) - Видео-фон
 
 
+[Урок 21](https://zadorinserj.github.io/lesson_21/project/) - Parallax эффект
+
 
 ___
 
