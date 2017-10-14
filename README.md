@@ -96,3 +96,6 @@ ___
 
 
 [Практика 9](https://zadorinserj.github.io/practice_9/project/src/) - Блоки "Схема работы" и "Всё включено"
+
+
+[Практика 10](https://zadorinserj.github.io/practice_10/project/src/) - Блок "Развеиваем сомнения"
