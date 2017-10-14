@@ -1,0 +1,80 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+#map {
+  width: 100%;
+  height: 430px;
+}
+.maps {
+  z-index: 2;
+}
+.box {
+  height: 524px;
+}
+.contacts {
+  position: static;
+  margin-left: -1px;
+  margin-top: -430px;
+  height: 430px;
+  background-color: #c60b0b;
+  color: #fff;
+}
+.contacts .header {
+  padding-top: 60px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+}
+.contacts p {
+  font-weight: 100;
+  text-align: center;
+  font-size: 20px;
+}
+.contacts a {
+  text-align: center;
+  display: block;
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.contacts .def {
+  text-decoration: underline;
+}
+.logo,
+.descriptor,
+.numbers {
+  margin-left: -1px;
+  margin-top: -1px;
+  height: 95px;
+}
+.logotype {
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  margin-top: -45px;
+}
+.name {
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 18px;
+  height: 52px;
+  font-size: 16px;
+}
+.descriptor {
+  text-align: center;
+  font-size: 14px;
+  padding-top: 29px;
+}
+.numbers {
+  text-align: right;
+  padding-top: 10px;
+}
+.numbers a {
+  color: black;
+  font-size: 22px;
+  font-weight: 600;
+}
+.numbers p {
+  font-size: 14px;
+}

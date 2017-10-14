@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<title>Maps</title>
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/main.css">
+
+<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript">
+</script>
+</head>
+<body>
+
+
+  <div class="maps" id="map"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <div class="box">
+          <div class="row">
+            <div class="col-md-5">
+              <div class="contacts">
+                <p class="header">Контакты</p>
+                <br>
+                <p>
+                  г. Москва,
+                  <br>Варшавское шоссе,
+                  <br>дом 16, корпус 1, офис №8
+                  <br><br>
+                  200 от м. Театральная
+                  <br><br>
+                </p>
+                <a href="#">+7 (499) 409-87-25</a>
+                <a class="def" href="#">info@vashsite.ru</a>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <div class="logo">
+                <img class="logotype" src="img/logo.png" alt="logo">
+                <p class="name">Технологии<br>Пожарной<br>Безопасности</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="descriptor">
+                <p>Сертификация пожарной безопасности<br>
+                Работаем по России и странам СНГ</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="numbers">
+                <a href="#">+7 (499) 409-87-25</a>
+                <p>г. Москва, Варшавское шоссе,<br>
+                дом 16, корпус 1, офис №8</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <script>
+    ymaps.ready(function () {
+
+        var myMap = new ymaps.Map('map', {
+                center: [55.69319706, 37.62076709],
+                zoom: 18
+            }, {
+                searchControlProvider: 'yandex#search'
+            }),
+
+            // Создаём макет содержимого.
+            MyIconContentLayout = ymaps.templateLayoutFactory.createClass(
+                '<div style="color: #FFFFFF; font-weight: bold;">$[properties.iconContent]</div>'
+            ),
+
+            myPlacemark = new ymaps.Placemark(myMap.getCenter(), {
+                hintContent: 'Варшавское шоссе, дом 16',
+                balloonContent: 'Варшавское шоссе, дом 16'
+            }, {
+                // Опции.
+                // Необходимо указать данный тип макета.
+                iconLayout: 'default#image',
+                // Своё изображение иконки метки.
+                iconImageHref: 'img/mark.png',
+                // Размеры метки.
+                iconImageSize: [50, 50],
+                // Смещение левого верхнего угла иконки относительно
+                // её "ножки" (точки привязки).
+                iconImageOffset: [-25, -50]
+            });
+            myMap.behaviors.disable('scrollZoom'); 
+            myMap.geoObjects
+                    .add(myPlacemark)
+                    .add(myPlacemarkWithContent);
+
+
+        });
+  </script>
+  
+
+</body>
+</html>
