@@ -65,6 +65,9 @@
 [Урок 21](https://zadorinserj.github.io/lesson_21/project/) - Parallax эффект
 
 
+[Урок 22](https://zadorinserj.github.io/lesson_22/project/) - Гео-карты
+
+
 ___
 
 
