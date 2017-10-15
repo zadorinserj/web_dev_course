@@ -95,6 +95,9 @@ ___
 [Практика 7](https://zadorinserj.github.io/practice_7/project/src/) - Блок с отзывами
 
 
+[Практика 8](https://zadorinserj.github.io/practice_10/project/src/) - Адаптив блока с отзывами
+
+
 [Практика 9](https://zadorinserj.github.io/practice_9/project/src/) - Блоки "Схема работы" и "Всё включено"
 
 
